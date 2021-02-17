@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "average and variance": {
+      "commandName": "Project",
+      "commandLineArgs": "\"example.txt\""
+    }
+  }
+}
